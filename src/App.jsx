@@ -3,7 +3,7 @@ import { ReactDOM } from 'react-dom/client'
 
 import './App.css'
 import Header from './Header'
-import Main from './Main'
+import Main from './MainSec'
 import Footer from './Footer'
 
 function App() {
